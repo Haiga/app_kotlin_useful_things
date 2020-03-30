@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="your_login">Seu Login:</string>
+    <string name="your_password">Sua Senha:</string>
+    <string name="login">Login</string>
+    <string name="tela_de_login">Tela de Login</string>
+    <string name="welcome">Bem vindo %1$s!</string>
+    <string name="item">Item</string>
+    <string name="pedido">+Pedido</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor">Valor:</string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="nome_do_produto">Nome do Produto:</string>
+    <string name="total">Total: %1$s</string>
+    <string name="informa_es_do_pedido">Informações do Pedido</string>
+</resources>
